@@ -1,3 +1,3 @@
-from reload import bypass
+from reload import bypasser 
 
-captcha = bypass.bypass_recaptcha()
+captcha = bypasser.bypass_recaptcha()
